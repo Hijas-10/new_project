@@ -1,0 +1,27 @@
+{
+  "name": "newwww",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hijas-10/new_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Hijas-10/new_project/issues"
+  },
+  "homepage": "https://github.com/Hijas-10/new_project#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
